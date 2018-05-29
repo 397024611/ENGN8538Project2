@@ -1,6 +1,4 @@
-%Author : Yi Tang u5877586
-%		  Chuan Qin u5832845 
-%Date: 3 June 2017
+
 %This function is used to generate the OFDM symbol.
 function x_cp=Symbol_generator(M)
 %"M" is the number of the symbols we want to generate. 1*1 double.
